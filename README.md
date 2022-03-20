@@ -19,10 +19,11 @@ Nesta pasta temos o desenvolvimento de alguns códigos com orientação a objeto
 :round_pushpin: validate.js
 <p>Valida se os dados das operações que estamos realizando são realmente dos tipos que nós necessitamos, neste caso dos tipos númericos.</p>
 
-Para executar alguns desses códigos é necessário abrir o terminal e dar o seguinte comando:
-'''
+<p>Para executar alguns desses códigos é necessário abrir o terminal e dar o seguinte comando:</p>
+
+```
 npm start
-'''
+```
 ### 🛠️ Construído com
 
 **IDE**: [Visual Studio Code](https://code.visualstudio.com/)
