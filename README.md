@@ -8,7 +8,8 @@
 Nesta pasta temos o desenvolvimento de alguns códigos com orientação a objetos utilizando da linguagem JavaScript
 
 📂 Aula 3 - Node
-Desenvolvimento de uma calculadora utilizando de JavaScript, a calculadora conta com as 4 operações básicas e tem toda a sua execução dada atravé do NodeJS. Os arquivos contidos na pasta são:
+<p>Desenvolvimento de uma calculadora utilizando de JavaScript, a calculadora conta com as 4 operações básicas e tem toda a sua execução dada atravé do NodeJS. Os arquivos contidos na pasta são:</p>
+
 :round_pushpin: calculadora.js 
 <p>Onde estão as funções responsáveis por realizar todas as quatro operações anteriormente comentadas.</p>
 :round_pushpin: index.js
@@ -20,6 +21,7 @@ Desenvolvimento de uma calculadora utilizando de JavaScript, a calculadora conta
 ### 🛠️ Construído com
 
 **IDE**: [Visual Studio Code](https://code.visualstudio.com/)
+
 **Linguagens**:[Html, CSS e Javascript](https://www.devmedia.com.br/primeiros-passos-no-html5-javascript-e-css3/25647)
 
 ## ✒️ Autores
