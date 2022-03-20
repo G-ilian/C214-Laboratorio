@@ -20,6 +20,7 @@ Nesta pasta temos o desenvolvimento de alguns códigos com orientação a objeto
 <p>Valida se os dados das operações que estamos realizando são realmente dos tipos que nós necessitamos, neste caso dos tipos númericos.</p>
 
 <p>Para executar alguns desses códigos é necessário abrir o terminal e dar o seguinte comando:</p>
+
 ```
 npm start
 ```
