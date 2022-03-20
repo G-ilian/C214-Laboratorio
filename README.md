@@ -10,11 +10,11 @@ Nesta pasta temos o desenvolvimento de alguns códigos com orientação a objeto
 📂 Aula 3 - Node
 Desenvolvimento de uma calculadora utilizando de JavaScript, a calculadora conta com as 4 operações básicas e tem toda a sua execução dada atravé do NodeJS. Os arquivos contidos na pasta são:
 :round_pushpin: calculadora.js 
-Onde estão as funções responsáveis por realizar todas as quatro operações anteriormente comentadas.
+<p>Onde estão as funções responsáveis por realizar todas as quatro operações anteriormente comentadas.</p>
 :round_pushpin: index.js
-Onde são chamadas as operações que vão ser realizadas.
+<p>Onde são chamadas as operações que vão ser realizadas.</p>
 :round_pushpin: validate.js
-Valida se os dados das operações que estamos realizando são realmente dos tipos que nós necessitamos, neste caso dos tipos númericos.
+<p>Valida se os dados das operações que estamos realizando são realmente dos tipos que nós necessitamos, neste caso dos tipos númericos.</p>
 - [Instale node.js](https://nodejs.org/en/)
 
 ### 🛠️ Construído com
